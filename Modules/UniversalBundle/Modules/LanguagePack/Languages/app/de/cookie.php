@@ -1,0 +1,21 @@
+<?php 
+return [
+  'saveSettings' => 'Einstellungen speichern',
+  'cookiePreferences' => 'Cookie-Einstellungen',
+  'title' => 'Wir verwenden Cookies!',
+  'description' => 'Hallo, diese Website verwendet wichtige Cookies, um den ordnungsgemäßen Betrieb sicherzustellen, und Tracking-Cookies, um zu verstehen, wie Sie mit ihr interagieren. Letztere werden nur nach Einwilligung gesetzt.',
+  'letMeChoose' => 'Lass mich aussuchen',
+  'acceptAll' => 'Akzeptiere alle',
+  'rejectAll' => 'Alles ablehnen',
+  'acceptNecessary' => 'Akzeptiere das Notwendige',
+  'cookieUsage' => 'Verwendung von Cookies',
+  'cookieUsageDescription' => 'Ich verwende Cookies, um die Grundfunktionen der Website sicherzustellen und Ihr Online-Erlebnis zu verbessern. Sie können für jede Kategorie festlegen, ob Sie sich jederzeit anmelden oder abmelden möchten. Weitere Einzelheiten zu Cookies und anderen sensiblen Daten.',
+  'strictlyNecessaryCookies' => 'Unbedingt notwendige Cookies',
+  'strictlyNecessaryCookiesDescription' => 'Diese Cookies sind für das ordnungsgemäße Funktionieren meiner Website unerlässlich. Ohne diese Cookies würde die Website nicht ordnungsgemäß funktionieren',
+  'performanceAnalyticsCookies' => 'Leistungs- und Analyse-Cookies',
+  'performanceAnalyticsCookiesDescription' => 'Diese Cookies ermöglichen es der Website, sich an die von Ihnen in der Vergangenheit getroffenen Entscheidungen zu erinnern',
+  'moreInformation' => 'Mehr Informationen',
+  'moreInformationDescription' => 'Bei Fragen zu unserer Richtlinie zu Cookies und Ihren Auswahlmöglichkeiten wenden Sie sich bitte an uns',
+  'advertisementTitle' => 'Werbe- und Targeting-Cookies',
+  'advertisementTitleDescription' => 'Diese Cookies sammeln Informationen darüber, wie Sie die Website nutzen, welche Seiten Sie besucht und welche Links Sie angeklickt haben. Sämtliche Daten werden anonymisiert und lassen keinen Rückschluss auf Ihre Person zu',
+];

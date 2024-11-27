@@ -1,0 +1,21 @@
+<?php 
+return [
+  'saveSettings' => '설정 저장',
+  'cookiePreferences' => '쿠키 기본 설정',
+  'title' => '우리는 쿠키를 사용합니다!',
+  'description' => '안녕하세요. 이 웹사이트는 올바른 작동을 보장하기 위해 필수 쿠키를 사용하고 귀하가 웹사이트와 상호 작용하는 방식을 이해하기 위해 추적 쿠키를 사용합니다. 후자는 동의 후에만 설정됩니다.',
+  'letMeChoose' => '내가 선택하자',
+  'acceptAll' => '모든것을 받아 들인다',
+  'rejectAll' => '모두 거부',
+  'acceptNecessary' => '필수 수락',
+  'cookieUsage' => '쿠키 사용',
+  'cookieUsageDescription' => '나는 웹사이트의 기본 기능을 보장하고 귀하의 온라인 경험을 향상시키기 위해 쿠키를 사용합니다. 원할 때마다 각 카테고리에 대해 선택/해제를 선택할 수 있습니다. 쿠키 및 기타 민감한 데이터에 관한 자세한 내용을 확인하세요.',
+  'strictlyNecessaryCookies' => '꼭 필요한 쿠키',
+  'strictlyNecessaryCookiesDescription' => '이 쿠키는 내 웹사이트가 제대로 작동하는 데 필수적입니다. 이러한 쿠키가 없으면 웹사이트가 제대로 작동하지 않습니다.',
+  'performanceAnalyticsCookies' => '성능 및 분석 쿠키',
+  'performanceAnalyticsCookiesDescription' => '이 쿠키를 통해 웹사이트는 귀하가 과거에 선택한 사항을 기억할 수 있습니다.',
+  'moreInformation' => '추가 정보',
+  'moreInformationDescription' => '쿠키 및 귀하의 선택에 관한 당사의 정책과 관련하여 문의 사항이 있는 경우',
+  'advertisementTitle' => '광고 및 타겟팅 쿠키',
+  'advertisementTitleDescription' => '이 쿠키는 귀하가 웹사이트를 어떻게 사용하는지, 어떤 페이지를 방문했는지, 어떤 링크를 클릭했는지에 대한 정보를 수집합니다. 모든 데이터는 익명으로 처리되어 귀하를 식별하는 데 사용될 수 없습니다.',
+];

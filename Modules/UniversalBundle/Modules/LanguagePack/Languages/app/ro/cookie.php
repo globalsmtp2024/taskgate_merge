@@ -1,0 +1,21 @@
+<?php 
+return [
+  'saveSettings' => 'Salvează setările',
+  'cookiePreferences' => 'Preferințe cookie',
+  'title' => 'Folosim cookie-uri!',
+  'description' => 'Bună, acest site web folosește cookie-uri esențiale pentru a-și asigura funcționarea corectă și cookie-uri de urmărire pentru a înțelege cum interacționați cu el. Acesta din urmă va fi stabilit numai după acord.',
+  'letMeChoose' => 'Lasa-ma sa aleg',
+  'acceptAll' => 'Accepta toate',
+  'rejectAll' => 'Respinge totul',
+  'acceptNecessary' => 'Acceptați Necesarul',
+  'cookieUsage' => 'Utilizarea cookie-urilor',
+  'cookieUsageDescription' => 'Folosesc cookie-uri pentru a asigura funcționalitățile de bază ale site-ului web și pentru a vă îmbunătăți experiența online. Puteți alege pentru fiecare categorie să vă înscrieți/renunțați oricând doriți. Pentru mai multe detalii referitoare la cookie-uri și alte date sensibile.',
+  'strictlyNecessaryCookies' => 'Cookie-uri strict necesare',
+  'strictlyNecessaryCookiesDescription' => 'Aceste cookie-uri sunt esențiale pentru buna funcționare a site-ului meu. Fără aceste cookie-uri, site-ul web nu ar funcționa corect',
+  'performanceAnalyticsCookies' => 'Cookie-uri de performanță și analiză',
+  'performanceAnalyticsCookiesDescription' => 'Aceste cookie-uri permit site-ului web să-și amintească alegerile pe care le-ați făcut în trecut',
+  'moreInformation' => 'Mai multe informatii',
+  'moreInformationDescription' => 'Pentru orice întrebări legate de politica noastră privind cookie-urile și opțiunile dvs., vă rugăm',
+  'advertisementTitle' => 'Cookie-uri de publicitate și direcționare',
+  'advertisementTitleDescription' => 'Aceste cookie-uri colectează informații despre modul în care utilizați site-ul web, ce pagini ați vizitat și pe ce link-uri ați făcut clic. Toate datele sunt anonimizate și nu pot fi folosite pentru a vă identifica',
+];

@@ -1,0 +1,15 @@
+{
+    "name": "Subdomain",
+    "alias": "subdomain",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\Subdomain\\Providers\\SubdomainServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+        "start.php"
+    ],
+    "requires": []
+}

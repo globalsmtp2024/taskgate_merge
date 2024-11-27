@@ -1,0 +1,21 @@
+<?php 
+return [
+  'saveSettings' => 'Ruaj cilësimet',
+  'cookiePreferences' => 'Preferencat e cookie-ve',
+  'title' => 'Ne përdorim cookies!',
+  'description' => 'Përshëndetje, kjo faqe interneti përdor cookie thelbësore për të siguruar funksionimin e duhur dhe gjurmimin e kukive për të kuptuar se si ndërveproni me të. Kjo e fundit do të vendoset vetëm pas pëlqimit.',
+  'letMeChoose' => 'Më lejoni të zgjedh',
+  'acceptAll' => 'Prano të gjitha',
+  'rejectAll' => 'Refuzoni të gjitha',
+  'acceptNecessary' => 'Pranoni të nevojshme',
+  'cookieUsage' => 'Përdorimi i cookie-ve',
+  'cookieUsageDescription' => 'Unë përdor cookie për të siguruar funksionalitetet bazë të faqes në internet dhe për të përmirësuar përvojën tuaj në internet. Ju mund të zgjidhni për secilën kategori që të zgjedhni/përjashtoni sa herë që dëshironi. Për më shumë detaje në lidhje me cookies dhe të dhëna të tjera të ndjeshme.',
+  'strictlyNecessaryCookies' => 'Cookie rreptësisht të nevojshme',
+  'strictlyNecessaryCookiesDescription' => 'Këto cookie janë thelbësore për funksionimin e duhur të faqes sime të internetit. Pa këto cookie, faqja e internetit nuk do të funksiononte siç duhet',
+  'performanceAnalyticsCookies' => 'Kukit e performancës dhe analitikës',
+  'performanceAnalyticsCookiesDescription' => 'Këto cookie lejojnë faqen e internetit të kujtojë zgjedhjet që keni bërë në të kaluarën',
+  'moreInformation' => 'Më shumë informacion',
+  'moreInformationDescription' => 'Për çdo pyetje në lidhje me politikën tonë për cookies dhe zgjedhjet tuaja, ju lutemi',
+  'advertisementTitle' => 'Cookie reklamimi dhe synimi',
+  'advertisementTitleDescription' => 'Këto cookie mbledhin informacion rreth mënyrës se si e përdorni faqen e internetit, cilat faqe keni vizituar dhe cilat lidhje keni klikuar. Të gjitha të dhënat janë anonime dhe nuk mund të përdoren për t\'ju identifikuar',
+];

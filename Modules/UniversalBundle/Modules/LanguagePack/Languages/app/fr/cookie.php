@@ -1,0 +1,21 @@
+<?php 
+return [
+  'saveSettings' => 'Enregistrer les paramètres',
+  'cookiePreferences' => 'Préférences en matière de cookies',
+  'title' => 'Nous utilisons des cookies !',
+  'description' => 'Bonjour, ce site Web utilise des cookies essentiels pour assurer son bon fonctionnement et des cookies de suivi pour comprendre comment vous interagissez avec lui. Cette dernière ne sera fixée qu\'après accord.',
+  'letMeChoose' => 'Laisse-moi choisir',
+  'acceptAll' => 'Accepter tout',
+  'rejectAll' => 'Rejeter tout',
+  'acceptNecessary' => 'Accepter Nécessaire',
+  'cookieUsage' => 'Utilisation des cookies',
+  'cookieUsageDescription' => 'J\'utilise des cookies pour assurer les fonctionnalités de base du site Web et pour améliorer votre expérience en ligne. Vous pouvez choisir pour chaque catégorie de vous inscrire/désinscrire quand vous le souhaitez. Pour plus de détails relatifs aux cookies et autres données sensibles.',
+  'strictlyNecessaryCookies' => 'Cookies strictement nécessaires',
+  'strictlyNecessaryCookiesDescription' => 'Ces cookies sont indispensables au bon fonctionnement de mon site internet. Sans ces cookies, le site Web ne fonctionnerait pas correctement',
+  'performanceAnalyticsCookies' => 'Cookies de performances et d\'analyse',
+  'performanceAnalyticsCookiesDescription' => 'Ces cookies permettent au site Web de mémoriser les choix que vous avez faits dans le passé',
+  'moreInformation' => 'Plus d\'information',
+  'moreInformationDescription' => 'Pour toute question relative à notre politique en matière de cookies et à vos choix, veuillez',
+  'advertisementTitle' => 'Cookies de publicité et de ciblage',
+  'advertisementTitleDescription' => 'Ces cookies collectent des informations sur la façon dont vous utilisez le site Web, les pages que vous avez visitées et les liens sur lesquels vous avez cliqué. Toutes les données sont anonymisées et ne peuvent pas être utilisées pour vous identifier',
+];

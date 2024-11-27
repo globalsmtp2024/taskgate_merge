@@ -1,0 +1,21 @@
+<?php 
+return [
+  'saveSettings' => '保存设置',
+  'cookiePreferences' => 'Cookie 偏好设置',
+  'title' => '我们使用cookie！',
+  'description' => '您好，本网站使用必要的 cookie 来确保其正常运行，并跟踪 cookie 以了解您如何与其交互。后者只有在同意后才会设置。',
+  'letMeChoose' => '让我选择',
+  'acceptAll' => '全都接受',
+  'rejectAll' => '全部拒绝',
+  'acceptNecessary' => '接受必要的',
+  'cookieUsage' => 'Cookie 的使用',
+  'cookieUsageDescription' => '我使用cookies来确保网站的基本功能并增强您的在线体验。您可以随时为每个类别选择加入/退出。有关 cookie 和其他敏感数据的更多详细信息。',
+  'strictlyNecessaryCookies' => '绝对必要的cookie',
+  'strictlyNecessaryCookiesDescription' => '这些 cookie 对于我的网站的正常运行至关重要。如果没有这些 cookie，网站将无法正常运行',
+  'performanceAnalyticsCookies' => '性能和分析 cookie',
+  'performanceAnalyticsCookiesDescription' => '这些 cookie 允许网站记住您过去所做的选择',
+  'moreInformation' => '更多信息',
+  'moreInformationDescription' => '如果对我们的 Cookie 政策和您的选择有任何疑问，请',
+  'advertisementTitle' => '广告和定向 cookie',
+  'advertisementTitleDescription' => '这些 cookie 收集有关您如何使用网站、访问了哪些页面以及点击了哪些链接的信息。所有数据都是匿名的，无法用于识别您的身份',
+];
